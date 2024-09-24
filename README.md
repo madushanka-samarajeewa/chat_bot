@@ -25,12 +25,19 @@ Project Structure
 ├── app.py                      # Chat interface using Streamlit
 
 ├── get_embedding.py            # Function to query the vector database to get relevant embeddings
+
 ├── populate_database.py        # Script to populate the vector database
+
 ├── query_data.py               # Generate a prompt and query the large language model
+
 ├── test_rag.py                 # Test the RAG model
+
 ├── requirements.txt            # Dependencies for the project
+
 ├── data/                       # Folder to add documents (internal knowledge base)
+
 └── chroma/                     # Folder where the vector database is created
+
 
 Dependencies
 
