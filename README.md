@@ -1,4 +1,6 @@
-AI Chat Bot for Querying Internal Knowledge Bases in Atlassian Confluence
+***AI Chat Bot for Querying Internal Knowledge Bases in Atlassian Confluence***
+
+
 
 This project implements an AI chatbot that uses a locally hosted Large Language Model (LLM) to query internal knowledge bases, specifically those in Atlassian Confluence. The chatbot retrieves domain-specific information from internal knowledge bases, processes it through vector embeddings, and generates responses using a locally hosted LLM, making it suitable for internal enterprise use.
 Key Features
