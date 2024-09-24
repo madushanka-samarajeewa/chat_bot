@@ -22,10 +22,9 @@ How It Works
 
 Project Structure
 
-├── app.py                     # Chat interface using Streamlit
-|
+├── app.py                      # Chat interface using Streamlit
+
 ├── get_embedding.py            # Function to query the vector database to get relevant embeddings
-|
 ├── populate_database.py        # Script to populate the vector database
 ├── query_data.py               # Generate a prompt and query the large language model
 ├── test_rag.py                 # Test the RAG model
